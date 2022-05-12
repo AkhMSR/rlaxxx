@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/">
+  <partnerId>NYX</partnerId>
+  <channels>
+    <channel>
+      <title>NYX</title>
+      <defineSeries/>
+      <items>
+        <item>
+          <allowMix>1</allowMix>
+          <videoType>1</videoType>
+          <playoutType>3</playoutType>
+          <availableStart></availableStart>
+          <availableEnd></availableEnd>
+          <language>en</language>
+          <year></year>
+          <country></country>
+          <guid isPermaLink="false">8910644</guid>
+          <title>Charade</title>
+          <media:title>Charade</media:title>
+          <media:category>Comedy</media:category>
+          <media:description>Romance and suesense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Who can she trust?</media:description>
+          <media:content url="http://video1.rlaxxtv.com/nyx/CHARADE/CHARADE_MARCAS_REDUCIDO.mp4" medium="video"/>
+          <media:thumbnail url="http://video1.rlaxxtv.com/nyx/CHARADE/Charade_NyxChannel_PromoGraphic_3840x2160.png"/>
+          <media:restriction relationship="allow" type="country"></media:restriction>
+          <media:rating>nonadult</media:rating>
+          <media:runtime></media:runtime>
+          <media:subtitles/>
+          <keywords></keywords>
+          <series/>
+          <pubDate></pubDate>
+          <adBreaks>
+            <adBreak/>
+          </adBreaks>
+        </item>
+      </items>
+    </channel>
+  </channels>
+</rss>
