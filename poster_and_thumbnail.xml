@@ -22,7 +22,7 @@
                     <media:content url="https://cdn-01.watch4.com/01/sOrfrEpLvz.mp4?token=d9b644ec4bc53e830fdfe0b6d558b072" medium="video"/>
                     <media:restriction relationship="allow" type="country"/>
                     <media:thumbnail url="https://static.dw.com/image/60795406_403.jpg"/>
-                    <media:poster url="https://cdn-images.watch4.com/1280/2/1890.jpg"/>
+                    <media:poster url=""/>
                     <media:rating/>
                     <media:runtime/>900
                     <media:subtitles/>
