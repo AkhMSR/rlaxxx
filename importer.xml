@@ -14,7 +14,7 @@
         <seriesId>1532</seriesId>
         <seriesTitle>The Nobel Prize</seriesTitle>
         <seriesDescription>Including features on Albert Einstein, Marie Curie, and Martin Luther King Jr., this documentary discusses the Nobel Prize and what it takes to win one.</seriesDescription>
-        <seriesThumbnail url="https://raw.githubusercontent.com/AkhMSR/rlaxxx/main/importer.xml"/>
+        <seriesThumbnail url="https://github.com/AkhMSR/rlaxxx/raw/main/S0E0_kn9724FD50_the_nobel_prize_thumbnail_aaad.png"/>
       </defineSeries>
       <items>
         <item>
@@ -32,7 +32,7 @@
           <media:category>Documentary</media:category>
           <media:description>During the South African Nationalist Apartheid regime, where the government controlled all media, censored news, and banned music, a "pirate" radio station was created to inform the public by playing great music, then reporting truthful and neutral news</media:description>
           <media:content url="http://video3.rlaxxtv.com/filmhub/kn4B0BAD1A_music_power_the_story_of_capital_radio_604_99657/kn4B0BAD1A_music_power_the_story_of_capital_radio_604_main.mp4" medium="video"/>
-          <media:thumbnail url="https://raw.githubusercontent.com/AkhMSR/rlaxxx/main/importer.xml"/>
+          <media:thumbnail url="https://github.com/AkhMSR/rlaxxx/raw/main/S0E0_kn9724FD50_the_nobel_prize_thumbnail_aaad.png"/>
           <media:restriction relationship="allow" type="country"></media:restriction>
           <media:rating>nonadult</media:rating>
           <media:runtime></media:runtime>
