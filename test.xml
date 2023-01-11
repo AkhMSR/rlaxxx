@@ -33,17 +33,32 @@
             <adBreak/>
           </adBreaks>
         </item>
-        <item>
-          <title>News bulletin 2020/04/03 12:15</title>
-          <media:pubDate>2020-04-03 10:15:31</media:pubDate>
-          <media:title>News bulletin 2020/04/03 12:15</media:title>
-          <media:description>News bulletin 2020/04/03 12:15</media:description>
-          <media:content url="https://video-partners.euronews.com/mp4/1080p/EN/EN/SU/20/04/03/en/200403_ENSU_1066556_4608672_240320_000000_en.mp4" medium="video"/>
-          <media:thumbnail url="https://static.euronews.com/articles/stories/04/02/10/68/800x450_cmsv2_0da2be17-012f-5974-8da0-335c816629d1-4021068.jpg"/>
+<item>
+          <allowMix>0</allowMix>
+          <videoType>2</videoType>
+          <playoutType>3</playoutType>
+          <availableStart></availableStart>
+          <availableEnd></availableEnd>
+          <language>de</language>
+          <year>2023</year>
+          <country></country>
           <guid isPermaLink="false">1028913</guid>
+          <title>Überraschende Entdeckungen im Amsterdamer Rijksmuseum</title>
+          <media:title>Überraschende Entdeckungen im Amsterdamer Rijksmuseum</media:title>
+          <media:category>Euromaxx</media:category>
+          <media:description>Eine Fahrradstraße, die durch das Museum führt - oder eine Geheimtür für den Transport eines berühmten Gemäldes: Euromaxx zeigt Ihnen fünf Dinge in dem berühmten niederländischen Kunstmuseum, die Sie sicher noch nicht kannten.</media:description>
+          <media:content url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/emd/emd20230106_Rijksmuseum_AVC_1920x1080.mp4" medium="video"/>
+          <media:thumbnail url="https://static.euronews.com/articles/stories/04/02/10/68/800x450_cmsv2_0da2be17-012f-5974-8da0-335c816629d1-4021068.jpg"/>
           <media:restriction relationship="allow" type="country"></media:restriction>
-          <media:runtime>240</media:runtime>
-          <media:category>default</media:category>
+          <media:rating>Non-Adult</media:rating>
+          <media:runtime></media:runtime>
+          <media:subtitles/>
+          <keywords></keywords>
+          <series/>
+          <pubDate>2023-01-07 05:38:00</pubDate>
+          <adBreaks>
+            <adBreak/>
+          </adBreaks>
         </item>
       </items>
     </channel>
