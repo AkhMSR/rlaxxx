@@ -15,7 +15,7 @@
           <language>de</language>
           <year>2023</year>
           <country></country>
-          <guid isPermaLink="false">1028911</guid>
+          <guid isPermaLink="false">1028912</guid>
           <title>Überraschende Entdeckungen im Amsterdamer Rijksmuseum</title>
           <media:title>Überraschende Entdeckungen im Amsterdamer Rijksmuseum</media:title>
           <media:category>Euromaxx</media:category>
@@ -32,6 +32,18 @@
           <adBreaks>
             <adBreak/>
           </adBreaks>
+        </item>
+        <item>
+          <title>News bulletin 2020/04/03 12:15</title>
+          <media:pubDate>2020-04-03 10:15:31</media:pubDate>
+          <media:title>News bulletin 2020/04/03 12:15</media:title>
+          <media:description>News bulletin 2020/04/03 12:15</media:description>
+          <media:content url="https://video-partners.euronews.com/mp4/1080p/EN/EN/SU/20/04/03/en/200403_ENSU_1066556_4608672_240320_000000_en.mp4" medium="video"/>
+          <media:thumbnail url="https://static.euronews.com/articles/stories/04/02/10/68/800x450_cmsv2_0da2be17-012f-5974-8da0-335c816629d1-4021068.jpg"/>
+          <guid isPermaLink="false">1028913</guid>
+          <media:restriction relationship="allow" type="country"></media:restriction>
+          <media:runtime>240</media:runtime>
+          <media:category>default</media:category>
         </item>
       </items>
     </channel>
