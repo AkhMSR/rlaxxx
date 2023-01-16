@@ -12,23 +12,23 @@
           <playoutType>3</playoutType>
           <availableStart></availableStart>
           <availableEnd></availableEnd>
-          <language>es</language>
+          <language>de</language>
           <year>2022</year>
           <country></country>
-          <guid isPermaLink="false">932966</guid>
-          <title>Namibia: Protección para las hienas </title>
-          <media:title>Namibia: Protección para las hienas </media:title>
-          <media:category>Global 3000</media:category>
-          <media:description>La hiena parda de Namibia está muy adaptada al desierto, pero su existencia peligra. Dado su valor para el ecosistema, los esfuerzos comunitarios ayudan a protegerlas de los agricultores que temen por su ganado. </media:description>
-          <media:content url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/gls/gls220614_Namibia_new_AVC_1280x720.mp4" medium="video"/>
-          <media:thumbnail url="https://static.dw.com/image/59874759_607.png"/>
+          <guid isPermaLink="false">858522</guid>
+          <title>Mit einem E-Van durch Europa</title>
+          <media:title>Mit einem E-Van durch Europa</media:title>
+          <media:category>Check-in</media:category>
+          <media:description>Die US-amerikanischen Youtuber und DW-Reisereporter Allison und Eric Bieller reisen mit einem Elektro-Van durch Mitteleuropa. Neben Touristen-Hotspots in Deutschland, Österreich und Italien besuchen sie auch Geheimtipps.</media:description>
+          <media:content url="https://tvdownloaddw-a.akamaihd.net/Events/mp4/hw/hw20220205_gesamtHD_hd.mp4" medium="video"/>
+          <media:thumbnail url="https://static.dw.com/image/19196565_403.png"/>
           <media:restriction relationship="allow" type="country"></media:restriction>
           <media:rating>Non-Adult</media:rating>
           <media:runtime></media:runtime>
           <media:subtitles/>
           <keywords></keywords>
           <series/>
-          <pubDate>2022-06-14 13:07:00</pubDate>
+          <pubDate>2022-02-05 08:27:00</pubDate>
           <adBreaks>
             <adBreak/>
           </adBreaks>
